@@ -8,5 +8,5 @@ export class ryuta extends Component {
     )
   }
 }
-
+컴포넌트,프룹스, restAPI, 
 export default ryuta
